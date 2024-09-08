@@ -1,0 +1,21 @@
+[
+  {
+    "role": "Associate Software Engineer",
+    "organisation": "Engin Technologies",
+    "startDate": "Oct, 2021",
+    "endDate": "May, 2022",
+    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Euphoria XR",
+    "startDate": "June, 2022",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
