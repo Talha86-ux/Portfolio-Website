@@ -1,0 +1,38 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Bootstrap",
+    "imageSrc": "skills/Bootstrap.png"
+  },
+  {
+    "title": "Tailwind CSS",
+    "imageSrc": "skills/Tailwind CSS.png"
+  },
+  {
+    "title": "React JS",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Ruby on Rails",
+    "imageSrc": "skills/Ruby on Rails.png"
+  },
+  {
+    "title": "GraphQL",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "Postgresql",
+    "imageSrc": "skills/578px-PostgreSQL_Logo.1_Color_Black.png"
+  },
+  {
+    "title": "",
+    "imageSrc": "skills/logo-mysql-170x115.png"
+  }
+]
