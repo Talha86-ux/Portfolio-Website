@@ -5,7 +5,7 @@
     "startDate": "Oct, 2021",
     "endDate": "May, 2022",
     "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
+    "imageSrc": "history/engintech.png"
   },
   {
     "role": "Software Engineer",
@@ -16,6 +16,6 @@
       "Worked on component library",
       "Helped create UI components"
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/euxr.PNG"
   }
 ]

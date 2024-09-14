@@ -9,19 +9,19 @@
   },
   {
     "title": "Bootstrap",
-    "imageSrc": "skills/bootstrap-2.png"
+    "imageSrc": "skills/Bootstrap.png"
   },
   {
     "title": "Tailwind CSS",
-    "imageSrc": "skills/Tailwind.png"
+    "imageSrc": "skills/Tailwind CSS.png"
   },
   {
     "title": "React JS",
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Ruby",
-    "imageSrc": "skills/Ruby_On_Rails_Logo.svg"
+    "title": "Ruby on Rails",
+    "imageSrc": "skills/Ruby on Rails.png"
   },
   {
     "title": "GraphQL",
@@ -29,10 +29,10 @@
   },
   {
     "title": "Postgresql",
-    "imageSrc": "skills/PG.png"
+    "imageSrc": "skills/578px-PostgreSQL_Logo.1_Color_Black.png"
   },
   {
-    "title": "MySQL",
-    "imageSrc": "skills/mysql.png"
+    "title": "",
+    "imageSrc": "skills/logo-mysql-170x115.png"
   }
 ]
