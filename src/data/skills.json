@@ -24,6 +24,10 @@
     "imageSrc": "skills/Ruby on Rails.png"
   },
   {
+    "title": "Node JS",
+    "imageSrc": "skills/node.png"
+  },
+  {
     "title": "GraphQL",
     "imageSrc": "skills/graphql.png"
   },

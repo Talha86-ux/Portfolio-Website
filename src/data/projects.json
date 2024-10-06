@@ -1,26 +1,50 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "title": "Kitchen Connection",
+    "imageSrc": "projects/kc.PNG",
+    "description": "Utilized Bootstrap framework, optimized the frontend atchitechure, enhanced loading speed and user retention through intuitive design and responsive layout implementation.",
+    "skills": ["CSS", "Bootstrap", "Rails", "PostgreSQL"],
+    "demo": "https://www.kitchenconnection.org/",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
+    "title": "Telbee",
+    "imageSrc": "projects/telbee.PNG",
+    "description": "Telbee.io, a cutting-edge platform revolutionizing voice messaging. Worked as backend ROR developer alongwith different aspects including background jobs, API development, Third party integrations etc.",
+    "skills": ["React JS", "Rails", "PostgreSQL"],
+    "demo": "https://www.telbee.io/why-telbee",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "title": "Person Care",
+    "imageSrc": "projects/personcare.PNG",
+    "description": "Served as a full-stack ROR developer for Person.care, a platform dedicated to personalized healthcare solutions. Utilized Bootstrap framework extensively on the frontend and Ruby on Rails as backend.",
+    "skills": ["Bootstrap", "Coffescript", "Rails", "PostgreSQL"],
+    "demo": "https://person.care/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "InterApp",
+    "imageSrc": "projects/IAP.png",
+    "description": "Served as a full-stack ROR developer for Person.care, a platform dedicated to personalized healthcare solutions. Utilized Bootstrap framework extensively on the frontend and Ruby on Rails as backend.",
+    "skills": ["Bootstrap", "Rails", "PostgreSQL"],
+    "demo": "http://www.interappusa.com/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Hologram",
+    "imageSrc": "projects/ffmpeg.png",
+    "description": "Developed and maintained REST APIs and background jobs using Ruby on Rails framework. Worked with Image processing and video backgrounds removal alongwith other functionalities using ffmpeg ruby gem",
+    "skills": ["Ffmpeg", "Rails", "PostgreSQL"],
+    "demo": "",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Warbls",
+    "imageSrc": "projects/warbls.PNG",
+    "description": "Worked as React Js frontend developer. Implemented Lazy loading and stripe recurring payments along with other features. Moreover, build API endpoints in Node.js to support stripe recurring payments.",
+    "skills": ["React JS", "Node JS", "MySQL"],
+    "demo": "https://www.warbls.com/vocals",
     "source": "https://www.github.com"
   }
 ]
