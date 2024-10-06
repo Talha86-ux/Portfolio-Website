@@ -4,17 +4,29 @@
     "organisation": "Engin Technologies",
     "startDate": "Oct, 2021",
     "endDate": "May, 2022",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "experiences": ["Worked as full-stack developer with Bootstrap framework to optimize the frontend architecture and Rails as backend alongwith background job, API development, third party integrations."],
     "imageSrc": "history/engintech.png"
   },
   {
     "role": "Software Engineer",
     "organisation": "Euphoria XR",
     "startDate": "June, 2022",
+    "endDate": "November, 2024",
+    "experiences": [
+      "Worked with Bootstrap framework, React Js, Material UI for frontend development",
+      "Worked with Rails, Node js for backend development alongwith stripe integration, 3rd party "
+    ],
+    "imageSrc": "history/euxr.PNG"
+  },
+  {
+    "role": "Senior Software Engineer",
+    "organisation": "Euphoria XR",
+    "startDate": "November, 2024",
     "endDate": "Present",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Working as Senior rails backend developer on integration platform which smoothes the process of placing order to different point of sale systems.",
+      "Worked with integration of different POS such Aloha, Mobile Bytes, Speedline etc. and ordering platforms like UberEats, Doordash, Grubhub, Opentender etc.",
+      "Handling project communication through Slack, Asana, Jira, direct emails etc."
     ],
     "imageSrc": "history/euxr.PNG"
   }
