@@ -36,7 +36,7 @@
     "imageSrc": "projects/ffmpeg.png",
     "description": "Developed and maintained REST APIs and background jobs using Ruby on Rails framework. Worked with Image processing and video backgrounds removal alongwith other functionalities using ffmpeg ruby gem",
     "skills": ["Ffmpeg", "Rails", "PostgreSQL"],
-    "demo": "",
+    "demo": null,
     "source": "https://www.github.com"
   },
   {
