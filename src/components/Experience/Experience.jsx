@@ -28,7 +28,7 @@ export const Experience = ()=> {
                 <img src={getImageUrl(historyItem.imageSrc)} alt={`${historyItem.organisation} Logo`} className={styles.imageSize} />
                 <div className={styles.historyItemDetails}>
                   <h3>{`${historyItem.role} , ${historyItem.organisation}`}</h3>
-                  <p>{`${historyItem.startDate} - ${historyItem.endDate}`}</p>
+                  <p style={{ fontSize: '15px' }}>{`${historyItem.startDate} - ${historyItem.endDate}`}</p>
                   <ul>
                     {historyItem.experiences.map((experience, id) => {
                       return <li key={id}> {experience}</li>

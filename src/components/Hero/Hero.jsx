@@ -7,8 +7,10 @@ export default function Hero() {
     <section className={styles.container}>
       <div className={styles.content}>
         <h1 className={styles.title}>Hello, I am Talha</h1>
-        <p>I am full-stack developer with 4 years of Experience working in Rails and React js.</p>
-        <a className={styles.contactBtn} href='mailto:rjtalha555@gmail.com'>Contact Me</a>
+        <p style={{ fontSize: '25px' }}>
+          I am a full-stack developer with 4 years of experience working in Rails and React.js.
+         </p>
+        <a className={styles.workBtn} href='#projects'>View my Work</a>
       </div>
       <img src={getImageUrl('hero/my_pic.jpg')} alt='My image' className={styles.heroImg}></img>
       <div className={styles.topBlur} />
