@@ -1,11 +1,15 @@
 [
   {
-    "title": "HTML",
-    "imageSrc": "skills/html.png"
+    "title": "Ruby on Rails",
+    "imageSrc": "skills/Ruby on Rails.png"
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
+    "title": "Node JS",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Django",
+    "imageSrc": "skills/icons-django.png"
   },
   {
     "title": "Bootstrap",
@@ -20,14 +24,6 @@
     "imageSrc": "skills/react.png"
   },
   {
-    "title": "Ruby on Rails",
-    "imageSrc": "skills/Ruby on Rails.png"
-  },
-  {
-    "title": "Node JS",
-    "imageSrc": "skills/node.png"
-  },
-  {
     "title": "GraphQL",
     "imageSrc": "skills/graphql.png"
   },
@@ -36,7 +32,19 @@
     "imageSrc": "skills/578px-PostgreSQL_Logo.1_Color_Black.png"
   },
   {
-    "title": "",
-    "imageSrc": "skills/logo-mysql-170x115.png"
+    "title": "MySQL",
+    "imageSrc": "skills/icons-mysql.png"
+  },
+  {
+    "title": "Redis",
+    "imageSrc": "skills/icons-redis.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/icons-git.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/icons-docker.png"
   }
 ]

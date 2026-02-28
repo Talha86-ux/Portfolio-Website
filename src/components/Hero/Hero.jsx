@@ -8,7 +8,7 @@ export default function Hero() {
       <div className={styles.content}>
         <h1 className={styles.title}>Hello, I am Talha</h1>
         <p style={{ fontSize: '25px' }}>
-          I am a full-stack developer with 4 years of experience working in Rails and React.js.
+          I am a full-stack developer with 4 years of experience working in Ruby on Rails, Python and React.js.
          </p>
         <a className={styles.workBtn} href='#projects'>View my Work</a>
       </div>
