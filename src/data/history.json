@@ -14,7 +14,7 @@
     "endDate": "November, 2024",
     "experiences": [
       "Worked with Bootstrap framework, React Js, Material UI for frontend development",
-      "Worked with Rails, Node js for backend development alongwith stripe integration, 3rd party "
+      "Worked with Rails, Node js for backend development alongwith stripe and other 3rd party integrations."
     ],
     "imageSrc": "history/euxr.PNG"
   },
@@ -24,9 +24,10 @@
     "startDate": "November, 2024",
     "endDate": "Present",
     "experiences": [
-      "Working as Senior rails backend developer on integration platform which smoothes the process of placing order to different point of sale systems.",
+      "Worked as Senior rails backend developer on integration platform which smoothes the process of placing order to different point of sale systems.",
       "Worked with integration of different POS such Aloha, Mobile Bytes, Speedline etc. and ordering platforms like UberEats, Doordash, Grubhub, Opentender etc.",
-      "Handling project communication through Slack, Asana, Jira, direct emails etc."
+      "Handled project communication through Slack, Asana, Jira, direct emails etc.",
+      "Worked as a Full-Stack Developer (Python/Next.js) on Teampay (a payroll management platform). Designed and implemented responsive, visually appealing, and optimized frontend layouts using Next.js, while also developing core backend functionalities in Python, including CRUD operations, background job processing, third-party integrations, and comprehensive test coverage."
     ],
     "imageSrc": "history/euxr.PNG"
   }
