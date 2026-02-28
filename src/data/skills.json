@@ -4,10 +4,6 @@
     "imageSrc": "skills/Ruby on Rails.png"
   },
   {
-    "title": "Node JS",
-    "imageSrc": "skills/node.png"
-  },
-  {
     "title": "Django",
     "imageSrc": "skills/icons-django.png"
   },
@@ -38,10 +34,6 @@
   {
     "title": "Redis",
     "imageSrc": "skills/icons-redis.png"
-  },
-  {
-    "title": "Git",
-    "imageSrc": "skills/icons-git.png"
   },
   {
     "title": "Docker",
