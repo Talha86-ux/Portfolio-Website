@@ -44,7 +44,23 @@
     "imageSrc": "projects/warbls.PNG",
     "description": "Worked as React Js frontend developer. Implemented Lazy loading and stripe recurring payments along with other features. Moreover, build API endpoints in Node.js to support stripe recurring payments.",
     "skills": ["React JS", "Node JS", "MySQL"],
-    "demo": "https://www.warbls.com/vocals",
+    "demo": "https://warbls.com/",
     "source": "https://www.github.com"
+  },
+  {
+    "title": "Teampay",
+    "imageSrc": "projects/Teampay.PNG",
+    "description": "Worked as a Full-Stack Developer, implemented responsive and optimized layouts using Next.js, while also developing core backend functionalities in Python, including CRUD operations, background job processing, third-party integrations.",
+    "skills": ["FastAPI", "Next.js", "PostgreSQL"],
+    "demo": "https://www.team-pay.co.uk/",
+    "source": ""
+  },
+  {
+    "title": "Checkmate",
+    "imageSrc": "projects/Checkmate.PNG",
+    "description": "Worked as Senior rails backend developer on integration platform which smoothes the process of placing order to different point of sale systems. Worked with integration of different POS such Aloha, Mobile Bytes, Speedline etc. and ordering platforms like UberEats, Doordash, Grubhub, Opentender etc.",
+    "skills": ["Rails", "PostgreSQL"],
+    "demo": "https://www.itsacheckmate.com/integrations",
+    "source": ""
   }
 ]

@@ -12,14 +12,14 @@ export const About = ()=> {
           <img src={getImageUrl('about/cursorIcon.png')} alt='Cursor Image' />
           <div className={styles.aboutItemText}>
             <h3>Full-stack Engineer</h3>
-            <p>I am a full-stack engineer with experience working in Ruby on Rails, Bootstrap and React js</p>
+            <p>I am a full-stack engineer with experience working in Ruby on Rails, Django, Fast API, React js and Next js</p>
           </div>
         </li>
         <li className={styles.aboutItem}>
           <img src={getImageUrl('about/serverIcon.png')} alt='Cursor Image' />
           <div className={styles.aboutItemText}>
             <h3>No-code / Low-code Developer</h3>
-            <p>I am a low-code developer with experience working in Xano, Retool, Bubble.io</p>
+            <p>I am a low-code developer with experience working in Retool, Bubble.io</p>
           </div>
         </li>
       </ul>
