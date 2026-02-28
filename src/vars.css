@@ -1,10 +1,10 @@
 :root {
   /* Colours */
-  --color-text: #fff;
-  --color-primary: #576cbc;
-  --color-secondary: #19376d;
-  --color-dark: #0b2447;
-  --color-bg: #04152d;
+  --color-text: #f3f4f6; /* brightest white for contrast */
+  --color-primary: #3b82f6; /* softer blue (less intense) */
+  --color-secondary: #6b7280; /* lighter gray for cards/accents */
+  --color-dark: #374151; /* medium gray for interactive elements */
+  --color-bg: #1f2937; /* charcoal instead of pure black */
 
   /* Fonts */
   --font-roboto: "Roboto";
